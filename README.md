@@ -1,3 +1,0 @@
-# RBS
-Room Booking System
-
